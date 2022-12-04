@@ -4,3 +4,7 @@ My ongoing solutions for the Advent of Code 2022 programming puzzle calendar (ht
 Completed both tasks using Scratch
 # Day 2
 Completed both tasks using Excel formula
+# Day 3
+Completed both tasks using C#
+# Day 4
+Completed both tasks using Golang
