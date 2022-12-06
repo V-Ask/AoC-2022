@@ -8,3 +8,5 @@ Completed both tasks using Excel formula
 Completed both tasks using C#
 # Day 4
 Completed both tasks using Golang
+# Day 5
+Completed both tasks using Java
