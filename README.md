@@ -10,3 +10,7 @@ Completed both tasks using C#
 Completed both tasks using Golang
 # Day 5
 Completed both tasks using Java
+# Day 6
+Completed both tasks using C++
+# Day 7
+Completed both tasks using Kotlin
